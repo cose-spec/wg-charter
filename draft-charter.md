@@ -32,7 +32,7 @@ but does not intend to publish this as an RFC.
 
 ## Milestones
 
-* March 2015: Submit COSE specification as a WG item
+* April 2015: Submit COSE specification as a WG item
 
 * April 2015: Submit COSE constrained-appropriate algorithms as a WG
   item
