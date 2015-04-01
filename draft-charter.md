@@ -19,12 +19,22 @@ The resulting formats will not be cryptographically convertible from
 or to JOSE formats.  This lack of a need for bit-for-bit compabitility
 which will enable some simplification in the adaptation process.
 
-The deliverable of the WG is a single Standards-Track specification,
-CBOR Object Signing and Encryption (COSE).
+The deliverable of the WG is a single Standards-Track specification
+covering all of the functions achieved by JOSE, CBOR Object Signing
+and Encryption (COSE).  In addition, a number of algorithms will be
+registered that are appropriate for constrained environments (such as
+AES-CCM-8).
 
 ## Milestones
 
 * March 2015: Submit COSE specification as a WG item
 
-* June 2015: Submit COSE specification to the IESG, for publication as a
-  Proposed Standard
+* April 2015: Submit COSE constrained-appropriate algorithms as a WG
+  item
+
+* June 2015: Submit COSE specification to the IESG, for publication as
+  a Proposed Standard
+
+* July 2015: Submit COSE constrained-appropriate algorithms to the
+  IESG, for publication as a Proposed Standard
+
