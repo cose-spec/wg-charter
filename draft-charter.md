@@ -9,11 +9,12 @@ this data model more amenable to constrained nodes and constrained
 node networks (RFC 7228).
 
 The JOSE working group recently completed producing representations
-for message authentication (MACs), encryption, and digital signatures,
-using JSON representation.  This working group will reuse the work
-done by JOSE, adapting it to the capabilities of CBOR.  This will rely
-on the JOSE registries, which, where this provides additional
-efficiency, will be expanded with additional information.
+for cryptographic keys, message authentication (MACs), encryption,
+and digital signatures, using JSON representation. This working group
+will reuse the work done by JOSE, adapting it to the capabilities of
+CBOR. This will rely on the JOSE registries, which, where this
+provides additional efficiency, will be expanded with additional
+information.
 
 The resulting formats will not be cryptographically convertible from
 or to JOSE formats.  This lack of a need for bit-for-bit compabitility
