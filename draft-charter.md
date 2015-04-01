@@ -19,11 +19,15 @@ The resulting formats will not be cryptographically convertible from
 or to JOSE formats.  This lack of a need for bit-for-bit compabitility
 which will enable some simplification in the adaptation process.
 
-The deliverable of the WG is a single Standards-Track specification
-covering all of the functions achieved by JOSE, CBOR Object Signing
-and Encryption (COSE).  In addition, a number of algorithms will be
-registered that are appropriate for constrained environments (such as
-AES-CCM-8).
+The WG will have two deliverables:
+
+- a standards-track specification covering the same cryptographic
+formats from JOSE, expressed in CBOR;
+- registration for algorithms (such as AES-CCM-8) that are appropriate
+for constrained environments.
+
+The Working Group will use a wiki to track desired use cases for its work,
+but does not intend to publish this as an RFC.
 
 ## Milestones
 
