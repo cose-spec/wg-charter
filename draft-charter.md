@@ -23,7 +23,7 @@ which will enable some simplification in the adaptation process.
 The WG will have two deliverables:
 
 - a standards-track specification covering the same cryptographic
-formats from JOSE, expressed in CBOR;
+formats from JOSE, with optimizations for constrained device processing, expressed in CBOR;
 - registration for algorithms (such as AES-CCM-8) that are appropriate
 for constrained environments.
 
