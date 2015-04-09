@@ -39,7 +39,7 @@ message size and code size are to be considered whenever decisions are made.
 Issues dealing with key management and binding of keys to identities are out 
 of scope for the working group.
 
-The Working group will coordinate its progress with the ACE, DICE and CoAP
+The Working group will coordinate its progress with the ACE, DICE and CORE
 working groups to ensure that we are fulfilling the needs of these constituencies.
 Other groups may be added to this list as the set of use cases is expanded.
 
