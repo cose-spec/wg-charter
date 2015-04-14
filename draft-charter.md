@@ -21,20 +21,17 @@ or to JOSE formats.  This lack of a need for bit-for-bit compabitility
 which will enable some simplification in the adaptation process.
 
 Criteria that should be considered on making decisions in changing from
-a JOSE to a CBOR encoding are: 
+a JSON to a CBOR encoding are: 
 
 - Keeping the current JOSE paradigms and formatting where feasible.
 
-- Minimizing message size and code size should be considered (for the 
-constrained environments where we expect to use this).
+- Minimizing message size, code size and computational complexity should 
+be considered (for the constrained environments where we expect to use this).
 
 - Improving security
 
 - Providing new functionality that uses of JOSE did not require, but are 
 required for the new use cases.
-
-Since contrained environments are one of the primary targets for this work,
-message size and code size are to be considered whenever decisions are made.
 
 Issues dealing with key management and binding of keys to identities are out 
 of scope for the working group.
