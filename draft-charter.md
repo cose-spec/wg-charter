@@ -52,14 +52,14 @@ but does not intend to publish this as an RFC.
 
 ## Milestones
 
-* April 2015: Submit COSE specification as a WG item
+* WG formation date + 1 month: Submit COSE specification as a WG item
 
-* April 2015: Submit COSE constrained-appropriate algorithms as a WG
+* WG formation date + 1 month: Submit COSE constrained-appropriate algorithms as a WG
   item
 
-* June 2015: Submit COSE specification to the IESG, for publication as
+* WG formation date + 6 months: Submit COSE specification to the IESG, for publication as
   a Proposed Standard
 
-* July 2015: Submit COSE constrained-appropriate algorithms to the
+* WG formation date + 6 months: Submit COSE constrained-appropriate algorithms to the
   IESG, for publication as a Proposed Standard
 
